@@ -1,5 +1,5 @@
 # flask-webapp
-Web application using flask
+Web application with Google SSO login using flask
 
 # How to run application
 - Install dependencies : `pip install flask flask-sqlalchemy flask-login authlib gc`
